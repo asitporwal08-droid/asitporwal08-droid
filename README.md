@@ -1,45 +1,56 @@
 # Hi, I'm Asit Porwal 👋
 
-### Aspiring Data Analyst | SQL | Python | Excel | Power BI
+### 📊 Aspiring Data Analyst | SQL | Python | Excel | Power BI
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
+I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights and solving business problems through data-driven decision-making.
 
-I enjoy working on real-world data analytics projects, exploring datasets, writing SQL queries, performing data analysis using Python, and building interactive Power BI dashboards.
+I work with datasets to perform data cleaning, exploratory data analysis, SQL querying, business analysis, and interactive dashboard development. I enjoy discovering patterns in data and presenting insights in a clear, actionable way.
 
 ## 🛠️ Technical Skills
 
-- **Data Analysis:** Excel, Python, Pandas
-- **Database:** MySQL, SQL
+- **Programming & Analysis:** Python, Pandas, Excel
+- **Database & Querying:** MySQL, SQL
 - **Data Visualization:** Power BI
-- **Other Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
 ### 1. UPI & Fintech Transaction Analysis
-- Analyzed UPI transaction data to understand transaction performance and payment trends.
-- Used Python, MySQL, and Power BI.
-- Built an interactive dashboard to present key transaction metrics.
+- Analyzed 10,000 UPI transaction records to explore transaction performance and payment trends.
+- Used Python for data analysis and MySQL for querying transaction data.
+- Developed a Power BI dashboard to visualize transaction volume, status, and key metrics.
+
+🔗 [View UPI Project on GitHub](https://github.com/asitporwal08-droid/UPI_Fintech_Transaction_Analysis_Project)
 
 ### 2. Brazilian E-Commerce Data Analysis
-- Analyzed e-commerce orders, payments, reviews, and delivery performance.
-- Used MySQL to explore business trends and customer behavior.
-- Identified insights related to revenue, delivery performance, and payment methods.
+- Analyzed e-commerce data covering orders, payments, reviews, and delivery performance.
+- Used MySQL to answer business questions and identify key trends.
+- Explored revenue patterns, payment preferences, delivery performance, and customer behavior.
 
-🔗 [View Project on GitHub](https://github.com/asitporwal08-droid/Brazilian_Ecommerce_SQL_Project)
+🔗 [View SQL Project on GitHub](https://github.com/asitporwal08-droid/Brazilian_Ecommerce_SQL_Project)
 
 ### 3. Customer Shopping Behaviour Analysis
 - Explored customer shopping patterns and purchasing behavior.
-- Worked on data analysis and dashboard visualization.
-- Focused on extracting useful business insights from customer data.
+- Analyzed customer data to identify trends and business insights.
+- Created a Power BI dashboard to present key findings visually.
 
-🔗 [View Project on GitHub](https://github.com/asitporwal08-droid/Customer_Shopping_Behaviour_Analysis)
+🔗 [View Shopping Behaviour Project on GitHub](https://github.com/asitporwal08-droid/Customer_Shopping_Behaviour_Analysis)
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-To grow as a Data Analyst and use data to solve business problems and support better decisions.
+To begin my career as a Data Analyst, apply my analytical and technical skills to real-world business problems, and continuously improve my ability to turn data into actionable insights.
 
-## 📫 Connect With Me
+## 📈 Currently Improving
 
-- GitHub: [asitporwal08-droid](https://github.com/asitporwal08-droid)
+- SQL and advanced data analysis
+- Python for data cleaning and analysis
+- Excel and Power BI dashboard development
+- Business problem-solving and data storytelling
 
+## 🤝 Let's Connect
 
+- **GitHub:** [asitporwal08-droid](https://github.com/asitporwal08-droid)
+
+---
+
+⭐ Thank you for visiting my profile!
