@@ -20,7 +20,7 @@ I work with datasets to perform data cleaning, exploratory data analysis, SQL qu
 - Used Python for data analysis and MySQL for querying transaction data.
 - Developed a Power BI dashboard to visualize transaction volume, status, and key metrics.
 
-🔗 [View UPI Project on GitHub](https://github.com/asitporwal08-droid/UPI_Fintech_Transaction_Analysis_Project)
+🔗 [View UPI Project on GitHub](https://github.com/asitporwal08-droid/UPI-Fintech-Transaction-Analysis)
 
 ### 2. Brazilian E-Commerce Data Analysis
 - Analyzed e-commerce data covering orders, payments, reviews, and delivery performance.
